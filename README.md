@@ -12,6 +12,8 @@ Agarwal, A., Agrawal, P., Sharma, A., Kumar, V., Mugdal, C., & Raghava, G. P. S.
 **A repository of web-based bioinformatics resources developed in India.** *bioRxiv*. 
 [https://doi.org/10.1101/2020.01.21.855627](https://doi.org/10.1101/2020.01.21.855627)
 
+Zonedo:-(https://doi.org/10.5281/zenodo.20097484)
+
 ---
 
 ## About the Platform
